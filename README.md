@@ -49,7 +49,7 @@
 | Platform | Package |
 |----------|----------|
 | .NET | `KwaValidator` |
-| Node.js | `kwavalidator` *(planned)* |
+| Node.js | `kwavalidator` |
 
 ---
 
@@ -60,7 +60,7 @@
 | Platform | Installation Guide |
 |----------|-------------------|
 | .NET | [Installation Guide](./docs/INSTALLATION-DOTNET.md) |
-| Node.js |  |
+| Node.js | [Installation Guide](./docs/INSTALLATION-NODE.md) |
 
 ---
 
@@ -74,10 +74,11 @@ var validator = new BiValidator();
 var result = validator.Validate("123456789LA001");
 ```
 
-**Node.js (coming soon)**
+**Node.js
 ```javascript
-import { validateBI } from 'kwavalidator';
+import { validateBI } from '@adyllsxn/kwavalidator';
 const result = validateBI('123456789LA001');
+
 ```
 
 ---
