@@ -74,7 +74,7 @@ var validator = new BiValidator();
 var result = validator.Validate("123456789LA001");
 ```
 
-**Node.js
+**Node.js**
 ```javascript
 import { validateBI } from '@adyllsxn/kwavalidator';
 const result = validateBI('123456789LA001');
