@@ -6,8 +6,14 @@
 
 <h3> Cross-platform validation library for Angolan documents</h3>
 
-[![NuGet Version](https://img.shields.io/nuget/v/KwaValidator.svg)](https://www.nuget.org/packages/KwaValidator)
-[![NuGet Downloads](https://img.shields.io/nuget/dt/KwaValidator.svg)](https://www.nuget.org/packages/KwaValidator)
+<!-- NPM -->
+[![npm version](https://img.shields.io/npm/v/@adyllsxn/kwavalidator?color=blue&logo=npm)](https://www.npmjs.com/package/@adyllsxn/kwavalidator)
+[![npm downloads](https://img.shields.io/npm/dt/@adyllsxn/kwavalidator?color=blue&logo=npm)](https://www.npmjs.com/package/@adyllsxn/kwavalidator)
+
+<!-- NuGet -->
+[![NuGet Version](https://img.shields.io/nuget/v/KwaValidator?color=blue&logo=nuget)](https://www.nuget.org/packages/KwaValidator)
+[![NuGet Downloads](https://img.shields.io/nuget/dt/KwaValidator?color=blue&logo=nuget)](https://www.nuget.org/packages/KwaValidator)
+
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
 
 </div>
